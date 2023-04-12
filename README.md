@@ -24,7 +24,6 @@ I'm a software engineer with a passion for React, Redux, and Rails. My main proj
 
 ## Checkout My Projects
 
-- [Sidcord](https://sidcord-1.herokuapp.com/#/) is a fullstack Discord clone built on React and Rails where users can create servers and live chat with others.
 - [PokeMap](https://amoxley-dev.github.io/PokeMap/) is an interactive Pokemon map of the Sinnoh region.
 - [DevFocus](https://devfocus.herokuapp.com/#/) is a job search organizer built for software developers to organize the job search.
 
