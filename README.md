@@ -27,5 +27,4 @@ I'm a software engineer with a passion for React, Redux, and Rails. My main proj
 ## Checkout My Projects
 
 - [PokeMap](https://amoxley-dev.github.io/PokeMap/) is an interactive Pokemon map of the Sinnoh region.
-- [DevFocus](https://devfocus.herokuapp.com/#/) is a job search organizer built for software developers to organize the job search.
 
