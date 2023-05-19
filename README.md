@@ -5,7 +5,7 @@
 
 ## About Me
 
-I'm a software engineer with a passion for React, Redux, and Rails. My main project right now is Sidcord, a full stack clone of Discord. Sidcord uses React-Redux for the frontend and Rails for the backend. Using Websockets and Action Cable I was able to create custom backend channels that communicate with the appropriate React components to create a responsive and dynamic live chat.
+I'm a software engineer with a passion for creating applications that are accessible and intuitive.
 
 ## Technologies
 
