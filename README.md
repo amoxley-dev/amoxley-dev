@@ -5,7 +5,7 @@
 
 ## About Me
 
-I'm a software engineer with a passion for creating applications that are accessible and intuitive.
+I'm a software engineer with a passion for creating applications that are accessible and intuitive. I am currently working on creating Next.js applications using Typescript.
 
 ## Technologies
 
